@@ -1,4 +1,4 @@
-# Encode-solidity-Bootcamp-week-3-homework-TokenizedBallot.sol-scripts
+# Encode-Solidity-Bootcamp-Week-3-Homework-TokenizedBallot.sol-scripts
 Develop and run scripts for “TokenizedBallot.sol” within your group to give voting tokens, delegating voting power, casting votes, checking vote power and querying results.
 
 The Plan
